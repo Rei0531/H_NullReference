@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/tsubasa/New Scene.unity
+- path: Assets/Seiya/Stage.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
